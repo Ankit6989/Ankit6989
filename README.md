@@ -1,4 +1,4 @@
-[![Masterhead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+[![Masterhead](https://pbs.twimg.com/profile_banners/1512327540601344002/1677879119/600x200)]
 <h1 align="center">Hi 👋, I'm Ankit Parida</h1>
 <h3 align="center">A passionate Android Developer from India</h3>
 <image align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/OC_3jYWo7N4Vax_ChTiZvZg9fSZnZpaPaXPKqf2qD80/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzkyNjUz/Ny9zY3JlZW5zaG90/cy80NTAyOTI0L3B5/dGhvbi0yLmdpZg.gif">
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ankit_parida_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankit_parida_" height="30" width="40" /></a>
+<a href="https://twitter.com/@ankit_parida_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ankit_parida_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ankit parida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitparida" height="30" width="40" /></a>
 <a href="https://instagram.com/ankitparida_250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankitparida_250" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ankit_6989" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankit_6989" height="30" width="40" /></a>
