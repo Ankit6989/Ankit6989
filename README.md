@@ -1,4 +1,4 @@
-![Masterhead](https://pbs.twimg.com/profile_banners/1512327540601344002/1677879119/600x200)
+[![Masterhead](https://pbs.twimg.com/profile_banners/1512327540601344002/1677879119/600x200)]
 <h1 align="center">Hi 👋, I'm Ankit Parida</h1>
 <h3 align="center">A passionate Android Developer from India</h3>
 <image align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/OC_3jYWo7N4Vax_ChTiZvZg9fSZnZpaPaXPKqf2qD80/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzkyNjUz/Ny9zY3JlZW5zaG90/cy80NTAyOTI0L3B5/dGhvbi0yLmdpZg.gif">
